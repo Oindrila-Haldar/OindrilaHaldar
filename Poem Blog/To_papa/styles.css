@@ -29,4 +29,6 @@ html, body {
 .poem-content {
     font-size: 1.5em; /* Font size for the poem text */
     line-height: 1.5; /* Line height for better readability */
+    filter: blur(6px);
 }
+
